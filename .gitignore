@@ -1,0 +1,15 @@
+/target/
+/work/
+/node_modules/
+/msix/
+*.WebView2/
+BoxLinkBox.exe
+
+*.db
+*.db-wal
+*.db-shm
+*.log
+.env
+.env.*
+*.pfx
+*.pem

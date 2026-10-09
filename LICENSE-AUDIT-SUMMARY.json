@@ -1,0 +1,21 @@
+{
+  "normal_graph_count": 92,
+  "production_and_build_count": 98,
+  "license_expressions": {
+    "MIT OR Apache-2.0": 57,
+    "MIT": 9,
+    "Apache-2.0 AND MIT": 1,
+    "CC0-1.0 OR MIT-0 OR Apache-2.0": 1,
+    "MIT/Apache-2.0": 4,
+    "Zlib": 1,
+    "Unicode-3.0": 18,
+    "Apache-2.0 OR MIT": 3,
+    "Unlicense OR MIT": 1,
+    "MIT OR Apache-2.0 OR Zlib": 1,
+    "Apache-2.0": 1,
+    "(MIT OR Apache-2.0) AND Unicode-3.0": 1
+  },
+  "missing_texts": [],
+  "unspecified": [],
+  "strong_copyleft_expressions": []
+}
